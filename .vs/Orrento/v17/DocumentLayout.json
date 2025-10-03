@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\controllers\\rentalrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\controllers\\rentalrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\rentalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\rentalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\models\\rentalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\dtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\dtos\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\orrento.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\orrento.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\20250717200218_orrento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Orrento\\Migrations\\20250717200218_orrento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\orrento\\orrento\\migrations\\20250804001756_orrento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF48361-2CCB-40FB-8612-545F0012EFF4}|Orrento\\Orrento.csproj|solutionrelative:orrento\\migrations\\20250804001756_orrento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Orrento\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\Item.cs",
+              "RelativeToolTip": "Orrento\\Models\\Item.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:05:06.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\RentalRequestController.cs",
+              "RelativeDocumentMoniker": "Orrento\\Controllers\\RentalRequestController.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\RentalRequestController.cs",
+              "RelativeToolTip": "Orrento\\Controllers\\RentalRequestController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAuwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:20:25.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Orrento\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Orrento\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAYwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:07:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Orrento\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Orrento\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:01:03.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\ItemDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\ItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:08:37.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\LoginUserDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:00:06.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\RegisterUserDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:59:42.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\RentalRequestDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\RentalRequestDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\RentalRequestDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\RentalRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:19:45.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\RentalRequest.cs",
+              "RelativeDocumentMoniker": "Orrento\\Models\\RentalRequest.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\RentalRequest.cs",
+              "RelativeToolTip": "Orrento\\Models\\RentalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:18:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Orrento\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Orrento\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:02:52.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Orrento\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\User.cs",
+              "RelativeToolTip": "Orrento\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:58:24.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Orrento\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Orrento\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:05:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\UserProfileDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\UserProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:00:30.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\UpdateProfileDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\UpdateProfileDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\UpdateProfileDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\UpdateProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:13:51.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\CreateItemDTO.cs",
+              "RelativeDocumentMoniker": "Orrento\\DTOs\\CreateItemDTO.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\DTOs\\CreateItemDTO.cs",
+              "RelativeToolTip": "Orrento\\DTOs\\CreateItemDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:06:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Orrento\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Orrento\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T11:33:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Program.cs",
+              "RelativeDocumentMoniker": "Orrento\\Program.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Program.cs",
+              "RelativeToolTip": "Orrento\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:08:49.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Orrento.http",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Orrento.http",
+              "RelativeDocumentMoniker": "Orrento\\Orrento.http",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Orrento.http",
+              "RelativeToolTip": "Orrento\\Orrento.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-04T00:57:16.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\appsettings.json",
+              "RelativeDocumentMoniker": "Orrento\\appsettings.json",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\appsettings.json",
+              "RelativeToolTip": "Orrento\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T16:09:02.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Orrento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Orrento\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T10:51:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250804001756_orrento.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\20250804001756_orrento.cs",
+              "RelativeDocumentMoniker": "Orrento\\Migrations\\20250804001756_orrento.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\20250804001756_orrento.cs",
+              "RelativeToolTip": "Orrento\\Migrations\\20250804001756_orrento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:17:56.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250717200218_orrento.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\20250717200218_orrento.cs",
+              "RelativeDocumentMoniker": "Orrento\\Migrations\\20250717200218_orrento.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\Orrento\\Orrento\\Migrations\\20250717200218_orrento.cs",
+              "RelativeToolTip": "Orrento\\Migrations\\20250717200218_orrento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:02:18.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
